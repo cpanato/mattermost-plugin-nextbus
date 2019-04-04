@@ -16,5 +16,5 @@ The nextBus api is a fork from https://github.com/jcomo/go-nextbus and will have
 ## Plugin in Action
 
 # ![nextbus-bot](images/nextbus-bot.png)
-# ![nextbus-bot-1](images/nextbus-bot-1.png)
 # ![nextbus-bot-2](images/nextbus-bot-2.png)
+# ![nextbus-bot-3](images/nextbus-bot-3.png)
