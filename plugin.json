@@ -1,0 +1,18 @@
+{
+    "id": "com.cpanato.nextbus",
+    "name": "NextBus plugin",
+    "description": "This is the NextBus bot for mattermost. Will show to you the next bus to you not miss anymore.",
+    "version": "0.0.1",
+    "server": {
+        "executables": {
+            "linux-amd64": "server/dist/plugin-linux-amd64",
+            "darwin-amd64": "server/dist/plugin-darwin-amd64",
+            "windows-amd64": "server/dist/plugin-windows-amd64.exe"
+        }
+    },
+    "settings_schema": {
+        "header": "",
+        "footer": "",
+        "settings": []
+    }
+}
